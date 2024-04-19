@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wendell</h1>
-<h3 align="center">🎓 Estudante de Engenharia de Software na FIAP e Assistente de Programação na ETS - Eletronic Test Systems. 💻 Atuo no desenvolvimento de softwares para automação de testes, análise de esquemas eletrônicos e placas, com experiência em Python.</h3>
+<h3 align="center">🎓 Estudante de Engenharia de Software na FIAP e Assistente de Programação na ETS - Eletronic Test Systems. 💻 Atuo no desenvolvimento de softwares para automação de testes, análise de esquemas eletrônicos e placas, com foco em Python.</h3>
 
 - 🌱 I’m currently learning **Front-End development, logical reasoning in python and Edge Computing skills.**
 
