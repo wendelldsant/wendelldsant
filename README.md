@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wendell</h1>
 <h3 align="center">🎓 Estudante de Engenharia de Software na FIAP e Assistente de Programação na ETS - Eletronic Test Systems. 💻 Atuo no desenvolvimento de softwares para automação de testes ICT's e Funcionais em placas eletrônicas, com foco em Python.</h3>
 
-- 🌱 I’m currently learning **Front-End development, logical reasoning in Python and Edge Computing skills.**
+- 🌱 I’m currently learning **Database Design, Data Science with Python and Java Development **
 
-- 📫 How to reach me **wendell_dsantos@hotmail.com**
+- 📫 How to reach me **wendell.dsant@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
